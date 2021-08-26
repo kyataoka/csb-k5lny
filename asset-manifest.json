@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://kyataoka.github.io/csb-k5lny/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://kyataoka.github.io/csb-k5lny/static/js/main.082dbd65.chunk.js",
+    "main.js.map": "https://kyataoka.github.io/csb-k5lny/static/js/main.082dbd65.chunk.js.map",
+    "runtime-main.js": "https://kyataoka.github.io/csb-k5lny/static/js/runtime-main.27510f7c.js",
+    "runtime-main.js.map": "https://kyataoka.github.io/csb-k5lny/static/js/runtime-main.27510f7c.js.map",
+    "static/js/2.03c33ab1.chunk.js": "https://kyataoka.github.io/csb-k5lny/static/js/2.03c33ab1.chunk.js",
+    "static/js/2.03c33ab1.chunk.js.map": "https://kyataoka.github.io/csb-k5lny/static/js/2.03c33ab1.chunk.js.map",
+    "index.html": "https://kyataoka.github.io/csb-k5lny/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://kyataoka.github.io/csb-k5lny/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.03c33ab1.chunk.js.LICENSE.txt": "https://kyataoka.github.io/csb-k5lny/static/js/2.03c33ab1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27510f7c.js",
+    "static/js/2.03c33ab1.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.082dbd65.chunk.js"
+  ]
+}
